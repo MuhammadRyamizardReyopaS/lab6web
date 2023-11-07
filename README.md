@@ -1,2 +1,2 @@
 # lab6web
-# Sedang proses mengerjakan tugas
+## Tugas membuat layout sederhana menggunakan css
